@@ -1,6 +1,6 @@
 # A-Comparative-Machine-Learning-Study-in-Bladder-Cancer-Diagnosis
 # Memorial University of Newfoundland, Canada, 2016
-#Abstract
+Abstract:
 The aim of this research is to find the best model that can fit to Dataset 3 which is a data-set from bladder cancer patients that
 contains their gender, smoke status and genotypic data.
 
